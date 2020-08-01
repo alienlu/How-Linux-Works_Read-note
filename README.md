@@ -1,2 +1,17 @@
-# How-Linux-Works_Read-note
-How Linux Works's read note/How Linux Works读书笔记
+# How Linux Works读书笔记
+
+>   这是我读How Linux Works时对每一个章节做的笔记，以便日后翻看。因为开始写笔记的时候已经看到这本书的一半多，所以会从第11章Shell命令开始记录，之前的章节会在后续补上。
+
+### Todo
+
+- [ ] 第一章
+- [ ] 第二章
+- [ ] 第三章
+- [ ] 第四章
+- [ ] 第五章
+- [ ] 第六章
+- [ ] 第七章
+- [ ] 第八章
+- [ ] 第九章
+- [ ] 第十章
+- [x] 第十一章 Shell脚本介绍
